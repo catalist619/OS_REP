@@ -1,3 +1,5 @@
+// this is comment
+
 <?php
 include'conn.php';
 // global $conn;
